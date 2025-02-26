@@ -1,7 +1,7 @@
 export default function Experience() {
     const timeline = [
       {
-        year: "2022-Present",
+        year: "2025-Present",
         role: "Full Stack Developer",
         company: "Freelancer"
       },
